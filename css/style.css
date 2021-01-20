@@ -1,0 +1,18 @@
+.carousel1{
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+	height: 600px;
+
+}
+.navbar-home {
+    background-color: #ffffff;
+    border: none;
+	border-radius: 0px;
+	margin-bottom: 0px;
+	height: 5px;
+}
+.footer-background{
+    background-color: blue;
+    height: 100%;
+}
